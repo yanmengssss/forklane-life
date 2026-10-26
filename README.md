@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-GitHub Pages 部署完成后访问：<https://yanmengssss.github.io/forklane-life-demo/>
+在线访问：<https://yanmengssss.github.io/forklane-life/>
 
 ## 本地体验
 
